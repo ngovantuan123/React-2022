@@ -1,0 +1,30 @@
+const COLOR = {
+  colorBasic: "#0E1E2F",
+  colorPrimary: "#4675F3",
+  colorSecond: "#8A96A1",
+  colorThird: "#24272B",
+  colorInput: "#202020",
+  tabBar: "#f7f7f7",
+  red: "#FF0000",
+  green: "#15B34E",
+  yellow: "#FFAB00",
+  blue: "#1A7BFF",
+  orange: "#FF5630",
+  pink: "#FF2F5F",
+  violet: "#6654C0",
+  underlay: "#D0D0D0",
+  divider: "#E3E3E3",
+  iconLeft: "#53718B",
+  iconRight: "#C7C7CC",
+
+  linearStart: "#667FEF", //'#  ',
+  linearEnd: "#3E3EEF", //'#7263F1',
+  darkPurple: "#8278F2",
+  iconInActive: "#8a96a1",
+  background: "#f0f4f6",
+  card: "#FDFDFD",
+  arrowItem: "#c7c7cc",
+  input: "#5f6368",
+};
+
+export default COLOR;
